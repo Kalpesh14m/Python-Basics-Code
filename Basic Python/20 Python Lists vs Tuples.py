@@ -24,3 +24,6 @@ def ex():
 x, y, z = ex()
 # (ValueError: not enough values to unpack (expected 3, got 2))
 print(x,y)
+
+#to return total no of items in list
+print("total no. of element",len(x))
